@@ -1,2 +1,2 @@
 # wanderer
-Wanderer - Travel Services
+Wanderer 
